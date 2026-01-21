@@ -8,11 +8,11 @@
 
 <!-- Top Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankit-kr-maurya-82&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hackthejack08-cmyk&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
   <a href="https://github.com/hackthejack08-cmyk">
     <img src="https://img.shields.io/github/stars/hackthejack08-cmyk.svg?logo=github&style=flat-square" alt="GitHub Stars" />
   </a>
-  <a href="https://github.com/ankit-kr-maurya-82?tab=followers">
+  <a href="https://github.com/hackthejack08-cmyk?tab=followers">
     <img src="https://img.shields.io/github/followers/hackthejack08-cmyk.svg?logo=github&style=flat-square" alt="Followers" />
   </a>
   <a href="https://github.com/hackthejack08-cmyk?tab=repositories">
